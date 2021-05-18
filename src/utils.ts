@@ -8,6 +8,7 @@ const KNOWN_CHAINS = new Map<number, string>([
   [5, 'Goerli'],
   [8, 'Ubiq'],
   [42, 'Kovan'],
+  [56, 'Binance Smart Chain'],
   [100, 'xDai'],
   // This chainId is arbitrary and can be changed,
   // but by convention this is the number used
